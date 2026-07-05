@@ -135,6 +135,6 @@ This project is released under the MIT License.
 
 ## 👤 Author
 
-**Koorosh Tookallo**
+**Kasra Tookallo**
 
 GitHub: https://github.com/kasratookallo-svg
